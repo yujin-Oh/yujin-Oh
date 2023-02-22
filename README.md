@@ -1,11 +1,10 @@
+### 안녕하세요, 오건입니다! 👋:
 <div align="center">
- 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=linchpin&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-
- ####  👋: Welcome my github profile !
+####  :wave: Welcome my github profile !
  <br/>
  <br/>
-####  📋: Once I've Used
+####  :clipboard: Once I've Used
  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -20,20 +19,15 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
    <br/>
    <br/>
-#### ✏️: Study log
+#### :pencil2: Study log
   <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ogeon135&color=dark)](https://velog.io/@ogeon135)
 [![linchipin's github stats](https://github-readme-stats.vercel.app/api?username=ohgeon0307)](https://github.com/ohgeon0307/github-readme-stats)
- 
 </div>
-### Hi there 👋
-
 <!--
-**yujin-Oh/yujin-Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**ohgeon0307/ohgeon0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
