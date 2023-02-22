@@ -1,9 +1,11 @@
 <div align="center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=linchpin&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-####  :손인사: Welcome my github profile !
+
+ ####  👋: Welcome my github profile !
  <br/>
  <br/>
-####  :클립보드: Once I've Used
+####  📋: Once I've Used
  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -18,9 +20,13 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
    <br/>
    <br/>
-#### :연필2: Study log
+#### ✏️: Study log
   <br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ogeon135&color=dark)](https://velog.io/@ogeon135)
+[![linchipin's github stats](https://github-readme-stats.vercel.app/api?username=ohgeon0307)](https://github.com/ohgeon0307/github-readme-stats)
+ 
+</div>
 ### Hi there 👋
 
 <!--
